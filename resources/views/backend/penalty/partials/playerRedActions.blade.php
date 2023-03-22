@@ -1,0 +1,1 @@
+<a class="btn btn-xs btn-success" href="{{ route('admin.penalty.player.insertRedPenalty', ['id'=>$id, 'match'=>$match])}}"><i class="glyphicon glyphicon-pencil" data-toggle="tooltip" data-placement="top" title="" data-original-title="Εισαγωγή Ποινής"></i> </a>

@@ -1,0 +1,2 @@
+{{Form::text('court-'.$match, $court , ['class'=>'form-control court', 'match'=> $match, 'readonly'=> $readonly])}}
+{{Form::hidden('court_id-'.$match, $court_id , ['class'=>'form-control ', 'id'=>'court_id-'.$match])}}

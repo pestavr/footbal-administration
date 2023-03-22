@@ -1,0 +1,2 @@
+<a class="modal-trigger btn btn-xs btn-danger" href="{{ route('admin.education.referees.answers.update', $educationAnswer)}}?answer=wrong"><i class="fa fa-times" data-toggle="tooltip" data-placement="top" title="" data-original-title="Wrong"></i></a>
+<a class="modal-trigger btn btn-xs btn-success" href="{{ route('admin.education.referees.answers.update', $educationAnswer)}}?answer=right"><i class="fa fa-check" data-toggle="tooltip" data-placement="top" title="" data-original-title="Right"></i></a>

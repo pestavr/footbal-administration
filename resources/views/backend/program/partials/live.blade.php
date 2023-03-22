@@ -1,0 +1,1 @@
+<center><input type="checkbox" class="form-check-input live" name="live-{{$match}}" value="{{$match}}" {{ (($readonly)?'disabled="disabled"':'') }} {{ (($live==1)?'checked="checked"':'') }}></center>

@@ -1,0 +1,1 @@
+<center><i class="fa {{ (($response)?'fa-check':'fa-times') }}" data-toggle="tooltip" data-placement="top"  data-original-title="{{ $msg }}" style="color:{{ (($response)?'green':'red') }}; font-size: 1.0em" ></i></center>

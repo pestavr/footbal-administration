@@ -1,0 +1,1 @@
+<a class="modal-trigger btn btn-xs btn-primary " href="{{ route('admin.education.referees.myeducation.show', $refereeEducation)}}"><i class="fa fa-eye" data-toggle="tooltip" data-placement="top" title="" data-original-title="Show"></i></a>

@@ -1,0 +1,1 @@
+<center><input type="checkbox" class="form-check-input publ" name="published-{{$match}}" value="{{$match}}" {{ (($readonly)?'disabled="disabled"':'') }} {{ (($prog_publ==1)?'checked="checked"':'') }}></center>

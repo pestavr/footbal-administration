@@ -1,0 +1,1 @@
+<a class="btn btn-xs btn-primary"  href="{{ route('admin.move.transfer.doΤransfer', ['id'=>$id, 'team'=>$team])}}" activate><i class="fa fa fa-exchange" data-toggle="tooltip" data-placement="top" title="" data-original-title="Μεταγραφή στην ομάδα"></i></a>
