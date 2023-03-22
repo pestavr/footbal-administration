@@ -1,0 +1,2 @@
+<a class="btn btn-xs btn-warning" href="{{ route('admin.matches.edit_exodologio', $id)}}"><i class="glyphicon glyphicon-edit" data-toggle="tooltip" data-placement="top" title="" data-original-title="Edit"></i> </a>
+<a class="btn btn-xs btn-success" href="{{ route('admin.exodologia.print', $id)}}" target="_blank"><i class="fa fa-file-pdf-o" data-toggle="tooltip" data-placement="top" title="" data-original-title="Φύλλο Αγώνα σε PDF"></i> </a>

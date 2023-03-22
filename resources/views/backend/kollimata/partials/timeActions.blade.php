@@ -1,0 +1,1 @@
+<a class="btn btn-xs btn-danger"  href="{{ route('admin.kollimata.time.delete', $id)}}" name="delete" deactivate><i class="glyphicon glyphicon-trash" data-toggle="tooltip" data-placement="top" title="" data-original-title="Διαγραφή"></i></a>

@@ -1,0 +1,1 @@
+{{Form::text('score2-'.$match, $score2 , ['class'=>'form-control input-sm',  'size'=>'1', 'readonly'=> $readonly])}}

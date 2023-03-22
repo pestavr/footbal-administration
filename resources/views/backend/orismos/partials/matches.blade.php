@@ -1,0 +1,1 @@
+<center><span data-toggle="tooltip" data-placement="top" data-html="true"  data-original-title="{{ $msg }}" style="font-size: 1.0em" >{{ $response }}</span></center>

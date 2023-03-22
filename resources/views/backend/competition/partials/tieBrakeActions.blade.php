@@ -1,0 +1,2 @@
+<span class="modal-trigger btn btn-xs btn-success " load="{{ route('admin.competition.championship.addW', $id)}}"><i class="fa fa-plus" data-toggle="tooltip" data-placement="top" title="" data-original-title="Ανέβασμα Θέσης"></i></span>
+<span class="modal-trigger btn btn-xs btn-danger " load="{{ route('admin.competition.championship.subW', $id)}}"><i class="fa fa-minus" data-toggle="tooltip" data-placement="top" title="" data-original-title="Κατέβασμα Θέσης"></i></span>
