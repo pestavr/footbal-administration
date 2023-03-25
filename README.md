@@ -6,7 +6,7 @@ Through this application you can manage:
 - People that are involved in a football match (footballers, referees, health personnel)
 - Football courts
 - Teams
-- Footballers Tranfers
+- Footballers Transfers
 - Championship's Program
 - Penalties
 - You can print a variety of reports
